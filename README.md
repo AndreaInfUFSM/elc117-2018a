@@ -1,4 +1,4 @@
-# Paradigmas de Programação - ELC117-2017a
+# Paradigmas de Programação - ELC117-2018a
 [Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) 
 
 
