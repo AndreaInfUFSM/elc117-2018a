@@ -11,8 +11,8 @@ Sala: 368, CT - Práticas: 334, CT
 ## Sobre a disciplina
  - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
  - [Planejamento](https://docs.google.com/spreadsheets/d/15MTkNHMWZDwZBKRkq6Vmb-PDbQUEFiP2VP-ud3O6ilY/edit?usp=sharing): planejamento de atividades de cada aula.
- - [Que comecem os jogos!](https://bit.ly/paraquest): formulário para responder na primeira semana.
- - [Entrega de atvidades extras](http://bit.ly/paraextras): formulário para entrega dos extras.
+ - [Que comecem os jogos!](https://docs.google.com/forms/d/e/1FAIpQLSfOOOhuv2590t8mQxQqG2KdBA7EXpJiy33EKmx-798jBOzSGQ/viewform): formulário para responder na primeira semana.
+ - [Entrega de atvidades extras](https://docs.google.com/forms/d/1oXv8OtWlcocNzC_ftgEg_UFtNjtZFuc6rIWSWgmetJM/edit): formulário para entrega dos extras.
  
  
 ## Avaliações
