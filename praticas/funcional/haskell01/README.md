@@ -25,7 +25,7 @@ Prelude>
 
 - Para definir novas funções, é preferível colocá-las em um arquivo de programa, por exemplo `prog.hs`.
 Depois, este arquivo precisa ser **carregado** no interpretador:
-  - No Linux: `Prelude> :load prog.hs` ou `Prelude> :load prog.hs`
+  - No Linux: `Prelude> :load prog.hs` ou `Prelude> :l prog.hs`
   - No Windows: `Ctrl-L` vai abrir uma tela de seleção do programa
 
 - Para sair do interpretador: `Prelude> :q` ou `Ctrl-D`.
@@ -88,7 +88,7 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 
 2. Crie uma função `hasEqHeads :: [Int] -> [Int] -> Bool` que verifique se 2 listas possuem o mesmo primeiro elemento. Use a função `head` e o operador lógico `==` para verificar igualdade.
 
-3. Escreva uma função que receba uma lista de nomes e adicione a string "Super " no início de cada nome.
+3. Escreva uma função que receba uma lista de nomes e adicione a string "Super " no início de cada nome. Use o operador `++` para concatenar strings (ou qualquer lista).
 
 4. Crie uma função que receba uma string e retorne o número de espaços nela contidos. Dica: aplique 2 funções consecutivamente.
 
