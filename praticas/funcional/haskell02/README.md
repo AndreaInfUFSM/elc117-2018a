@@ -92,9 +92,9 @@ Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um
 11. Escreva uma função `betterEncodeName :: String -> String` que substitua vogais em uma string, conforme este esquema: a = 4, e = 3, i = 1, o = 0, u = 00.  Exemplos de uso da função:
 
     ```
-    > encodeName "Anderson Silva"
+    > betterEncodeName "Anderson Silva"
     "4nd3rs0n s1lv4"
-    > encodeName "Badtz Maru"
+    > betterEncodeName "Badtz Maru"
     "B4dtz M4r00"
     ```
 
