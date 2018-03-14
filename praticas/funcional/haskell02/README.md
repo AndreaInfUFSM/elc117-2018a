@@ -16,10 +16,10 @@ Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um
 
 3. Crie uma função `htmlListItems :: [String] -> [String]`, que receba uma lista de strings e retorne outra lista contendo as strings formatadas como itens de lista em HTML. Resolva este exercício COM e SEM funções anônimas (lambda). Exemplo de uso da função:
 
-  ```
-  > htmlListItems ["abra", "ca", "dabra"]
-  ["<LI>abra</LI>", "<LI>ca</LI>", "<LI>dabra</LI>"]
-  ```
+   ```
+   > htmlListItems ["abra", "ca", "dabra"]
+   ["<LI>abra</LI>", "<LI>ca</LI>", "<LI>dabra</LI>"]
+   ```
 
 4. Defina uma função que receba uma string e produza outra retirando as vogais, conforme os exemplos abaixo. Resolva este exercício COM e SEM funções anônimas (lambda).
 
