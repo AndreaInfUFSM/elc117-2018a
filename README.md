@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2018a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) 
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Trabalhos](#trabalhos)
 
 
 Primeiro semestre de 2018  
