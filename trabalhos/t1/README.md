@@ -6,7 +6,7 @@ Domingo, 18 de março, 23:59.
 
 ## Trabalho
 
-Resolva os exercícios da [Aula Prática 2 de Haskell](../../praticas/haskell02).
+Resolva os exercícios da [Aula Prática 2 de Haskell](../../praticas/funcional/haskell02).
 
 ## Entrega
 
