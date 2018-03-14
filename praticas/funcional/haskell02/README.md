@@ -2,7 +2,7 @@
 
 ## Orientações
 
-Estes exercícios deverão ser entregues como [`t1`](../../trabalhos/t1), em um arquivo `t1.hs`. Acesse o link [`t1`](../../trabalhos/t1) para ver mais orientações sobre a entrega.
+Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um arquivo `t1.hs`. Acesse o link [t1](../../../trabalhos/t1) para ver mais orientações sobre a entrega.
 
 **Atenção!** Você pode (e deve) procurar funções pré-definidas que auxiliem na resolução dos exercícios. **Porém**, se você encontrar alguma função que faz tudo o que for solicitado num exercício, resolva o exercício com e sem essa função.
 
