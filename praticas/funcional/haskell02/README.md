@@ -2,9 +2,9 @@
 
 ## Orientações
 
-Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um arquivo `t1.hs`. Acesse o link [t1](../../../trabalhos/t1) para ver mais orientações sobre a entrega.
+Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um arquivo `t1.hs`. Os exercícios devem ser entregues em ordem e cada exercício deve ser acompanhado de seu enunciado em forma de comentário. Acesse o link [t1](../../../trabalhos/t1) para ver mais orientações sobre a entrega.
 
-**Atenção!** Você pode (e deve) procurar funções pré-definidas que auxiliem na resolução dos exercícios. **Porém**, se você encontrar alguma função que faz tudo o que for solicitado num exercício, resolva o exercício com e sem essa função.
+**Atenção!** Você pode (e deve) procurar funções pré-definidas em bibliotecas Haskell que auxiliem na resolução dos exercícios. **Porém**, se você encontrar alguma função pré-definida que faz tudo o que for solicitado num exercício, resolva o exercício com e sem essa função.
 
 
 ## Funções
@@ -14,14 +14,14 @@ Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um
 
 2. Escreva uma função `addComma`, que adicione uma vírgula no final de cada string contida numa lista.
 
-3. Crie uma função `htmlListItems :: [String] -> [String]`, que receba uma lista de strings e retorne outra lista contendo as strings formatadas como itens de lista em HTML. Resolva este exercício COM e SEM funções anônimas (lambda). Exemplo de uso da função:
+3. Crie uma função `htmlListItems :: [String] -> [String]`, que receba uma lista de strings e retorne outra lista contendo as strings formatadas como itens de lista em HTML. Resolva este exercício COM e SEM [funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function). Exemplo de uso da função:
 
    ```
    > htmlListItems ["abra", "ca", "dabra"]
    ["<LI>abra</LI>", "<LI>ca</LI>", "<LI>dabra</LI>"]
    ```
 
-4. Defina uma função que receba uma string e produza outra retirando as vogais, conforme os exemplos abaixo. Resolva este exercício COM e SEM funções anônimas (lambda).
+4. Defina uma função que receba uma string e produza outra retirando as vogais, conforme os exemplos abaixo. Resolva este exercício COM e SEM[funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function).
 
    ```
    > semVogais "andrea"
@@ -32,7 +32,7 @@ Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um
    ""
    ```
 
-5. Defina uma função que receba uma string, possivelmente contendo espaços, e que retorne outra string substituindo os demais caracteres por '-', mas mantendo os espaços. Resolva este exercício COM e SEM funções anônimas (lambda). Exemplos:
+5. Defina uma função que receba uma string, possivelmente contendo espaços, e que retorne outra string substituindo os demais caracteres por '-', mas mantendo os espaços. [funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function). Exemplos:
 
    ```
    > codifica "Rio Grande do Sul"
