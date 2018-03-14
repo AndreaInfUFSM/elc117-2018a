@@ -2,7 +2,7 @@
 
 ## Orientações
 
-Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um arquivo `t1.hs`. Os exercícios devem ser entregues em ordem e cada exercício deve ser acompanhado de seu enunciado em forma de comentário. Acesse o link [t1](../../../trabalhos/t1) para ver mais orientações sobre a entrega.
+Estes exercícios deverão ser entregues como trabalho [t1](../../../trabalhos/t1), em um arquivo `t1.hs`. Os exercícios devem ser entregues em ordem e cada um deve ser acompanhado de seu enunciado em forma de comentário. Acesse o link [t1](../../../trabalhos/t1) para ver mais orientações sobre a entrega.
 
 **Atenção!** Você pode (e deve) procurar funções pré-definidas em bibliotecas Haskell que auxiliem na resolução dos exercícios. **Porém**, se você encontrar alguma função pré-definida que faz tudo o que for solicitado num exercício, resolva o exercício com e sem essa função.
 
