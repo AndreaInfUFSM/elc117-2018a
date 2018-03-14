@@ -21,7 +21,7 @@ Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um
    ["<LI>abra</LI>", "<LI>ca</LI>", "<LI>dabra</LI>"]
    ```
 
-4. Defina uma função que receba uma string e produza outra retirando as vogais, conforme os exemplos abaixo. Resolva este exercício COM e SEM[funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function).
+4. Defina uma função que receba uma string e produza outra retirando as vogais, conforme os exemplos abaixo. Resolva este exercício COM e SEM [funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function).
 
    ```
    > semVogais "andrea"
@@ -32,7 +32,7 @@ Estes exercícios deverão ser entregues como [t1](../../../trabalhos/t1), em um
    ""
    ```
 
-5. Defina uma função que receba uma string, possivelmente contendo espaços, e que retorne outra string substituindo os demais caracteres por '-', mas mantendo os espaços. [funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function). Exemplos:
+5. Defina uma função que receba uma string, possivelmente contendo espaços, e que retorne outra string substituindo os demais caracteres por '-', mas mantendo os espaços. Resolva este exercício COM e SEM [funções anônimas (lambda)](https://wiki.haskell.org/Anonymous_function). Exemplos:
 
    ```
    > codifica "Rio Grande do Sul"
