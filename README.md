@@ -56,11 +56,13 @@ Sala: 368, CT - Práticas: 334, CT
  - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
  -->
 
-<!--
+
 
 ## Trabalhos
 
- - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
+ - [Programação funcional em Haskell](trabalhos/t1) (entrega até domingo, 18/03/2018, 23:59)
+ 
+<!--
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
  - [Gerando SVG em Haskell](trabalhos/t4) (entrega até domingo, 03/04/2016, 23:59)
