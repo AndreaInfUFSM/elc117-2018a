@@ -5,6 +5,7 @@ Slides
 - Paradigma funcional
    - [Introdução à programação funcional](https://docs.google.com/presentation/d/1jzz4HZhEmPwXvG9wCPAcJsEqZnXzMiGCwLRaNJwy4lI/export/pdf)
    - [Funções em Haskell](https://docs.google.com/presentation/d/1oodGjHp6E7FyOvhaZ9Wb6G9obBzQBJZAvnie7ba2Wno/export/pdf)
+   - [Geração de listas em Haskell](https://docs.google.com/presentation/d/1JVFCTYwsn0iDCTbmG4SkkpE81A-xsDqH7kn4wmiiQoA/export/pdf)
 <!--
 
 - [Listas em Python](https://docs.google.com/presentation/d/1RhujRyssNVkQc_W2r-OLAb8sVYSQe8MLTP1580bz4bA/export/pdf)
