@@ -7,6 +7,7 @@ Slides
    - [Funções em Haskell](https://docs.google.com/presentation/d/1oodGjHp6E7FyOvhaZ9Wb6G9obBzQBJZAvnie7ba2Wno/export/pdf)
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/1JVFCTYwsn0iDCTbmG4SkkpE81A-xsDqH7kn4wmiiQoA/export/pdf)
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/1SCBQmwFbHvp4Bme74kRvkV3fyCUeg9Bw_D4eI7fUUt4/export/pdf)
+   - [Exemplo com I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/13rufXdcsRziVncW4lMmGIVGYohuARZS2bViJaUJlaJg/edit?usp=sharing)
 <!--
 
 - [Listas em Python](https://docs.google.com/presentation/d/1RhujRyssNVkQc_W2r-OLAb8sVYSQe8MLTP1580bz4bA/export/pdf)
