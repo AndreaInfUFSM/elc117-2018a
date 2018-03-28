@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2018a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Trabalhos](#trabalhos)
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Trabalhos](#trabalhos) | [Práticas](#práticas)
 
 
 Primeiro semestre de 2018  
@@ -19,7 +19,7 @@ Sala: 368, CT - Práticas: 334, CT
 
  - [Guia de Pontuação](http://bit.ly/parapontos): a avaliação será baseada na pontuação acumulada individualmente na realização de atividades.  
  - Datas para avaliações orais:  
-   - Primeiro bimestre: 16 e 18/04/2018  
+   - Primeiro bimestre: 23 e 25/04/2018  
    - Segundo bimestre: 18 e 20/06/2018  
  - Avaliação final (exame): 16/07/2018  
 
@@ -47,14 +47,6 @@ Sala: 368, CT - Práticas: 334, CT
     - [Exceções em Java](slides/slides-java-excecoes-2016a.pdf)
 -->
 
-<!--
-## Práticas
-
- - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell3) [(4)](praticas/haskell4) 
- - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
- - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
- - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
- -->
 
 
 
@@ -71,3 +63,13 @@ Sala: 368, CT - Práticas: 334, CT
  - [Resolvendo problemas da OBI em Prolog](trabalhos/t7) (entrega até quarta, 04/05/2016, 23:59)
  - [Ache a maior bolacha em Java](trabalhos/t8) (entrega até quarta, 01/06/2016, 23:59)
 -->
+
+## Práticas
+
+ - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
+ - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+<!--
+ - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
+ - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
+ -->
+
