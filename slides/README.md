@@ -12,6 +12,7 @@ Slides
    - [Introdução à programação lógica](https://docs.google.com/presentation/d/1YfAJmPQRsDpr3V0_A9I8SaxBFKeM-TyqTvmN6XnAWHc/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YfAJmPQRsDpr3V0_A9I8SaxBFKeM-TyqTvmN6XnAWHc/export/pdf)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/export/pdf)
    - [Listas em Prolog](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/export/pdf)
+   - [Processo de inferência em Prolog](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/export/pdf)
 
 <!--
 
