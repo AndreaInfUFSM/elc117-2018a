@@ -69,7 +69,7 @@ Sala: 368, CT - Práticas: 334, CT
 
  - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
- - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3)
+ - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3) [(4)](praticas/logico/prolog4)
 <!--
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
  - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
