@@ -12,7 +12,7 @@ Sala: 368, CT - Práticas: 334, CT
  - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
  - [Planejamento](https://docs.google.com/spreadsheets/d/15MTkNHMWZDwZBKRkq6Vmb-PDbQUEFiP2VP-ud3O6ilY/edit?usp=sharing): planejamento de atividades de cada aula.
  - [Que comecem os jogos!](https://docs.google.com/forms/d/e/1FAIpQLSfOOOhuv2590t8mQxQqG2KdBA7EXpJiy33EKmx-798jBOzSGQ/viewform): formulário para responder logo depois da primeira aula.
- - [Entrega de atvidades extras](https://docs.google.com/forms/d/1oXv8OtWlcocNzC_ftgEg_UFtNjtZFuc6rIWSWgmetJM/edit): formulário para entrega dos extras.
+ - [Entrega de atividades extras](https://docs.google.com/forms/d/1oXv8OtWlcocNzC_ftgEg_UFtNjtZFuc6rIWSWgmetJM/edit): formulário para entrega dos extras.
  
  
 ## Avaliações
@@ -54,6 +54,7 @@ Sala: 368, CT - Práticas: 334, CT
 
  - [Programação funcional em Haskell](trabalhos/t1) (entrega até domingo, 18/03/2018, 23:59)
  - [Mais programação funcional em Haskell](trabalhos/t2) (entrega até segunda, 2/4/2018, 23:59)
+ - [Programação lógica em Prolog](trabalhos/t3) (entrega até segunda, 16/4/2018, 23:59)
 <!--
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
@@ -68,6 +69,7 @@ Sala: 368, CT - Práticas: 334, CT
 
  - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3)
 <!--
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
  - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
