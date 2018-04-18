@@ -100,7 +100,7 @@ Qual será o resultado das seguintes consultas?
    C = []
    ```
 
-10. (Adaptado de [OBI2006-F1N1](http://olimpiada.ic.unicamp.br/passadas/pdf/provas/ProvaOBI2006_inic_f1n1.pdf)) Tem-se N azulejos 10cm x 10cm e, com eles, deve-se montar um conjunto de quadrados de modo a utilizar todos os azulejos
+10. (Adaptado de [OBI2006-F1N1](https://olimpiada.ic.unicamp.br/static/extras/obi2006/provas/ProvaOBI2006_f1i1.pdf)) Tem-se N azulejos 10cm x 10cm e, com eles, deve-se montar um conjunto de quadrados de modo a utilizar todos os azulejos
 dados, sem sobrepô-los. Inicialmente, deve-se montar o maior quadrado possível; então, com os azulejos que sobraram, deve-se montar o maior quadrado possível, e assim sucessivamente. Por exemplo, se forem dados 31 azulejos, o conjunto montado terá 4 quadrados.
 Para   resolver   este   problema,   você   deverá   definir   um   predicado `azulejos(NA, NQ)`, de forma que NQ seja o número de quadrados que se deve montar com NA azulejos. Dica: use os predicados `sqrt`  e `floor`, pré-definidos em Prolog.
 
