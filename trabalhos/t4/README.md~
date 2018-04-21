@@ -1,0 +1,44 @@
+# Trabalho 7: Resolvendo problemas da OBI em Prolog
+
+## Deadline
+
+Terça, 26 de abril, 23:59.
+
+## Sobre a OBI
+
+A **Olimpíada Brasileira de Informática** é uma competição voltada para alunos do ensino fundamental e médio, que ocorre anualmente em várias cidades no Brasil. Numa das modalidades da competição, denominada "Iniciação", os alunos resolvem problemas de lógica e problemas de computação, sem o uso de computador. Todos os problemas das competições passadas estão disponíveis no [site oficial da OBI](http://olimpiada.ic.unicamp.br/).
+ 
+ 
+## Trabalho
+
+Neste trabalho, você deverá criar programas em Prolog para resolver 2 problemas disponíveis no site da OBI:
+
+1. O problema intitulado "Combate à Dengue", proposto na [OBI2009 (fase 1, nível 2)](http://olimpiada.ic.unicamp.br/passadas/pdf/provas/ProvaOBI2009_inic_f1n2.pdf).
+
+2. Um problema à sua escolha, da modalidade Iniciação, de qualquer uma das OBIs passadas.
+
+Para ambos os problemas escolhidos, os programas devem implementar:
+
+1. Os requisitos lógicos do problema, sob forma de fatos e regras.
+2. Consultas que respondam a pelo menos metade das questões sobre o problema. Por exemplo, o problema "No país das maravilhas" compreende 6 questões, numeradas de 19 a 24, portanto seu programa deve responder no mínimo 3 dessas questões, à sua escolha. 
+
+Observações:
+- As consultas devem ser expressas em forma de comentários nos códigos. 
+- Na resolução dos problemas, você pode utilizar predicados pré-definidos em Prolog. 
+
+## Dicas
+
+- Muitos problemas da OBI podem ser resolvidos em Prolog usando **listas** para representar as possíveis soluções. Isso é exemplificado no programa [obi-estacionamento.pl](obi-estacionamento.pl), que apresenta a solução do problema "Vagas de Estacionamento" (OBI2009-F2N1). Neste programa, usa-se uma regra para gerar todas as permutações com 5 carros em 5 vagas, e depois aplicam-se regras com restrições, que reduzem o número de soluções possíveis.
+
+- No geral, a descrição inicial dos problemas poderia levar a diversas soluções, mas cada questão impõe condições adicionais, de forma que somente uma resposta (A, B, C, D ou E) pode ser verdadeira.
+
+- Para responder a uma questão, você pode fazer 5 consultas, uma para cada opção (A, B, C, D e E). Cada consulta deverá retornar true para a opção correta e false para as demais opções (ou o contrário, dependendo do enunciado da questão).
+
+
+## Entrega
+
+ 1. No seu repositório da disciplina no GitHub, crie uma pasta chamada `t7`.
+ 2. Resolva cada problema em um arquivo .pl separado.
+ 3. Coloque os arquivos dentro da pasta `t7`.
+ 4. Preencha os dados do seu trabalho [neste formulário](https://docs.google.com/forms/d/1DsRz-RBcHW-1FfFHSGZ9Ac2clkcuT0_Ips99rriXFkE/viewform?fbzx=1355909539722969958).
+  
