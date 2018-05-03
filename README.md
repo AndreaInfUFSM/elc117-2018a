@@ -17,6 +17,7 @@ Sala: 368, CT - Práticas: 334, CT
  
 ## Avaliações
 
+ - [Notas](https://docs.google.com/spreadsheets/d/1heTKIVZv0k_R4fTFXFIgBhVnwiW6IfqIMvIL8sLP6Nk/edit?usp=sharing)
  - [Guia de Pontuação](https://docs.google.com/spreadsheets/d/1DsA2ZrNY3JeqHaJ-Rt_J9gWDbMRb8D9YOm69-Pr4dXg/edit?usp=sharing): a avaliação será baseada na pontuação acumulada individualmente na realização de atividades.  
  - Datas para avaliações orais:  
    - Primeiro bimestre: 23 e 25/04/2018  
