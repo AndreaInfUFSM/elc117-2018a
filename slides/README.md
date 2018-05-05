@@ -13,15 +13,15 @@ Slides
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/export/pdf)
    - [Listas em Prolog](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/export/pdf)
    - [Processo de inferência em Prolog](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/export/pdf)
-
+- Paradigma orientado a objetos
+   - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/export/pdf)
+   - [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/export/pdf)
 <!--
 
-- [Listas em Python](https://docs.google.com/presentation/d/1RhujRyssNVkQc_W2r-OLAb8sVYSQe8MLTP1580bz4bA/export/pdf)
-   - [Funções de alta ordem em Python](https://docs.google.com/presentation/d/1LHcNwX8RyjdoiN4ykJpauCfD2ej0J0X7MAkhKzXXDyM/export/pdf)
-   - [Funções anônimas em Python](https://docs.google.com/presentation/d/1LmhKFMm4zNisf8H_I7l8uN-ON04GChCqg9ugzdNvbpQ/export/pdf)
-   - [List comprehension em Python](https://docs.google.com/presentation/d/1YpLSfAzdbNnUamzvGUhSMYcrem68LZyAod5cYwCeF3s/export/pdf)
-   - [Exemplo: valida CPF em Python funcional](https://docs.google.com/presentation/d/1oYZFXJyVx1t-hHvqDRG_yaVtvQkTAootUTnNbHigv6M/export/pdf)
-- Paradigma orientado a objetos
+https://drive.google.com/open?id=10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA
+
+https://drive.google.com/open?id=1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY
+
    - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1Z3BkBWRQQ5Ip4mhihbgVWSZBdTjJuul1lL2Hm8vgwW0/export/pdf)
    - [Classes em C++](https://docs.google.com/presentation/d/1g-8GQfHEJRUUocDpjrMcR-lP9ab8IQjTTeV9ktmYX00/export/pdf)
    - [Polimorfismo estático em C++](https://docs.google.com/presentation/d/1aCovKdcxMShhvMo4dBfvVoOs5mS8iYD-sL5XMB5khQE/export/pdf)
