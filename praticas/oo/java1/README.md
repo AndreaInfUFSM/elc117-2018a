@@ -106,9 +106,9 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
      dy = y2 - y1
      distancia = sqrt(dx*dx + dy*dy)
      ```
+     
+   **Dica**: para o cálculo da raiz quadrada, consulte os exemplos da seção [Beyond Basic Arithmetic](http://download.oracle.com/javase/tutorial/java/data/beyondmath.html), na página de [tutoriais Java](http://download.oracle.com/javase/tutorial/) da Oracle. 
 
-     **Dica**: para o cálculo da raiz quadrada, consulte os exemplos da seção [Beyond Basic Arithmetic](http://download.oracle.com/javase/tutorial/java/data/beyondmath.html), na página de [tutoriais Java](http://download.oracle.com/javase/tutorial/) da Oracle. 
-
-2. Crie um programa Java que utilize a classe `Ponto` do exercício anterior.
+2. Crie um programa Java que utilize a classe `Point` do exercício anterior.
 
  
