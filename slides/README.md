@@ -17,9 +17,10 @@ Slides
    - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/export/pdf)
    - [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/export/pdf)
    - [Uso de static em Java](https://docs.google.com/presentation/d/1XRWVcxtssibNMllYdj4BEwUow0pUcauGBKATEiipnfA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1XRWVcxtssibNMllYdj4BEwUow0pUcauGBKATEiipnfA/export/pdf)
-   
+   - [Herança em Java](https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/export/pdf)
 
 <!--
+https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/edit?usp=sharing
 
 https://drive.google.com/open?id=10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA
 
