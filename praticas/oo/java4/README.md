@@ -22,7 +22,6 @@
 
 2. Usando como referência o exemplo acima e o programa [HelloImage.java](src/HelloImage.java), você deverá construir um programa para visualizar 6 tipos de blocos de Madeira do jogo Minecraft, um de cada vez. A interface do programa deverá ter botões para avançar e retroceder a visualização da lista de blocos, conforme o exemplo ao lado.
 
-
 <img src="ImageBrowser.png" height="160px" align="right">
 
    **Observação**: os programas de exemplo usam as classes `VBox` e `StackPane` para o layout dos objetos na interface gráfica. Para este exercício, você deverá usar outra classe de layout. Para saber mais sobre layouts em JavaFX, veja este [tutorial da Oracle](https://docs.oracle.com/javafx/2/layout/builtin_layouts.htm).
