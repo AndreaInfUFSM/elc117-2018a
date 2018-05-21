@@ -25,4 +25,4 @@
 
 <img src="ImageBrowser.png" height="160px" align="right">
 
-**Observação**: os programas de exemplo usam as classes `VBox` e `StackPane` para o layout dos objetos na interface gráfica. Para este exercício, você deverá usar outra classe de layout. Para saber mais sobre layouts em JavaFX, veja este [tutorial da Oracle](https://docs.oracle.com/javafx/2/layout/builtin_layouts.htm).
+   **Observação**: os programas de exemplo usam as classes `VBox` e `StackPane` para o layout dos objetos na interface gráfica. Para este exercício, você deverá usar outra classe de layout. Para saber mais sobre layouts em JavaFX, veja este [tutorial da Oracle](https://docs.oracle.com/javafx/2/layout/builtin_layouts.htm).
