@@ -16,7 +16,8 @@
 
 1. Baixe o programa [HelloButtonLabel.java](src/HelloButtonLabel.java). Compile-o e execute-o usando seu IDE preferido, ou faça isso diretamente num terminal:
    ```
-
+   $ javac HelloButtonLabel.java
+   $ java -cp . HelloButtonLabel
    ```
 
 2. Usando como referência o exemplo acima e o programa [HelloImage.java](src/HelloImage.java), você deverá construir um programa para visualizar 6 tipos de blocos de Madeira do jogo Minecraft, um de cada vez. A interface do programa deverá ter botões para avançar e retroceder a visualização da lista de blocos, conforme o exemplo ao lado.
