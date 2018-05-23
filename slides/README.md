@@ -21,6 +21,7 @@ Slides
    - [Polimorfismo em Java](https://docs.google.com/presentation/d/1svZj1GZrA6jMvXQsr-o5xI9dgoBOs5Gk2UmAevPiEQo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1svZj1GZrA6jMvXQsr-o5xI9dgoBOs5Gk2UmAevPiEQo/export/pdf)
    - [Classes abstratas e interfaces](https://docs.google.com/presentation/d/1j1YV2bV4f45-q-AgQbfqOVt60qSok8Trkj3Z17M3UKg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1j1YV2bV4f45-q-AgQbfqOVt60qSok8Trkj3Z17M3UKg/export/pdf)
    - [Interfaces gráficas em Java](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/export/pdf)
+   - [Tratando eventos em JavaFX](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/export/pdf)
 
 
 <!--
@@ -30,12 +31,4 @@ https://drive.google.com/open?id=10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA
 
 https://drive.google.com/open?id=1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY
 
-   - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1Z3BkBWRQQ5Ip4mhihbgVWSZBdTjJuul1lL2Hm8vgwW0/export/pdf)
-   - [Classes em C++](https://docs.google.com/presentation/d/1g-8GQfHEJRUUocDpjrMcR-lP9ab8IQjTTeV9ktmYX00/export/pdf)
-   - [Polimorfismo estático em C++](https://docs.google.com/presentation/d/1aCovKdcxMShhvMo4dBfvVoOs5mS8iYD-sL5XMB5khQE/export/pdf)
-   - [Herança em C++](https://docs.google.com/presentation/d/1jyzsYPIPLnsVyAVQ6twKwVeBY0GUagsfA5EjGAD1j78/export/pdf)
-   - [Polimorfismo dinâmico em C++](https://docs.google.com/presentation/d/1AzQQ_Ri7Wvlf0QgHITURi7zIainMlS9LKA9rjntrcgY/export/pdf)
-   - [Interfaces gráficas com FLTK em C++](https://docs.google.com/presentation/d/1hKk_UpyfFFJSZ6mZYKmm0xQCmdJ-qfCfVqdEzpML5NU/export/pdf)
-- Programação concorrente
-   - [Threads em C++](https://docs.google.com/presentation/d/1cRC8vP1YMjm-0m5WBeur3I_HIOMHjlFk9T5_9oIQZAo/export/pdf)
 -->
