@@ -2,7 +2,7 @@
 
 ## Deadline
 
-Segunda, 11 de junho, 23:59.
+Terça, 12 de junho, 23:59.
 
 
 ## Objetivo
