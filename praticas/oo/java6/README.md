@@ -18,7 +18,7 @@
    ```
    $ cd threaddemo
    $ javac *.java
-
+   ```
 3. Note que existem 2 classes que implementam o método main: [ThreadDemoFX](src/threaddemo/ThreadDemoFX.java) e [ThreadDemoSwing](src/threaddemo/ThreadDemoSwing.java). As demais classes são reusadas. Execute os programas separadamente e observe que o comportamento é semelhante, embora a interface gráfica seja ligeiramente diferente.
    ```
    $ java -cp . ThreadDemoFX
@@ -34,12 +34,13 @@
 
 
 2. Usando como referência estes programas, crie um novo programa para cadastro de diferentes [blocos do jogo Minecraft](https://minecraft-pt.gamepedia.com/Bloco). Seu programa deverá permitir inserção, remoção e alteração de blocos, além de visualização em uma TableView. Cada bloco cadastrado deverá ter pelo menos 3 atributos à sua escolha. Por exemplo: 
-Nome | Transparência | Resistência a Explosão
---- | --- | ---
-Madeira | Não | 10
-Vidro | Sim | 1.5
-Cacto | Não | 2
-Neve | Não | 0.5
+
+   | Nome   | Transparência  | Resistência a Explosão |
+   | ------ | -------------  | ---------------------- |
+   | Madeira | Não           | 10                     |
+   | Vidro   | Sim           | 1.5 |
+   | Cacto   | Não           | 2 |
+   | Neve    | Não           | 0.5 |
 
 
 
