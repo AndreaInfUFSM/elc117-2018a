@@ -12,7 +12,7 @@
 
 ## Threads, JavaFX e MVC
 
-1. Baixe o arquivo [threaddemo.zip](src/threaddemo.zip) e descompacte-o. Nele você encontrará o código referente a este [diagrama de classes](graph2.png). 
+1. Baixe o arquivo [threaddemo.zip](src/threaddemo.zip) e descompacte-o. Nele você encontrará o código referente a este [diagrama de classes](src/threaddemo/graph2.png). 
 
 2. Compile tudo usando usando seu IDE preferido, ou faça isso diretamente num terminal:
    ```
