@@ -22,9 +22,9 @@ Slides
    - [Classes abstratas e interfaces](https://docs.google.com/presentation/d/1j1YV2bV4f45-q-AgQbfqOVt60qSok8Trkj3Z17M3UKg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1j1YV2bV4f45-q-AgQbfqOVt60qSok8Trkj3Z17M3UKg/export/pdf)
    - [Interfaces gráficas em Java](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/export/pdf)
    - [Tratando eventos em JavaFX](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/export/pdf)
-   - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/edit?usp=sharing)
-   - [TableView em JavaFX](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/edit?usp=sharing)
-   - [Exceções em Java](https://docs.google.com/presentation/d/1HVoJcLVkVW8B35NGVyvynCEcG8RMjnPleHxpQyLrYwg/edit?usp=sharing)
+   - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/export/pdf)
+   - [TableView em JavaFX](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/export/pdf)
+   - [Exceções em Java](https://docs.google.com/presentation/d/1HVoJcLVkVW8B35NGVyvynCEcG8RMjnPleHxpQyLrYwg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1HVoJcLVkVW8B35NGVyvynCEcG8RMjnPleHxpQyLrYwg/export/pdf)
 - Programação concorrente
   - [Threads em Java](https://drive.google.com/file/d/1lY3Ys0k_bNgOcZCntxK7VcYKZhFEs1p6/view?usp=drivesdk)
   - [Problemas clássicos de programação concorrente](https://drive.google.com/file/d/1XoPe8UjF5Td4yBIGOsESlzMCtw9lwcvL/view?usp=drivesdk)
