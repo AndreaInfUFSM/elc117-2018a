@@ -32,15 +32,15 @@
 
 1. Revise os programas de exemplo discutidos nos [slides sobre o uso do componente TableView do JavaFX](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/edit?usp=sharing). Estes programas estão disponíveis [aqui](src/tableview). A tabela a seguir sumariza os recursos destes exemplos:
 
-  | Exemplo | Descrição |
-  | --- | --- |
-  | [TableViewExample1.java](src/tableview/TableViewExample1.java) | Tabela vazia |
-  | [TableViewExample2.java](src/tableview/TableViewExample2.java)| Tabela com dados fixos | 
-  | [TableViewExample3.java](src/tableview/TableViewExample3.java)| Botão para inserir dado fixo na tabela |
-  | [TableViewExample4.java](src/tableview/TableViewExample4.java)| Botão para inserir dado lido de TextField |
-  | [TableViewExample5.java](src/tableview/TableViewExample5.java)| Botão para remover linha da tabela |
-  | [TableViewExample6.java](src/tableview/TableViewExample6.java)| Botão para substituir dado na tabela |
-  | [TableViewExampleJoke.java](src/tableview/TableViewExampleJoke.java) | Bônus: tabela com piadas do Chuck Norris |
+   | Exemplo | Descrição |
+   | --- | --- |
+   | [TableViewExample1.java](src/tableview/TableViewExample1.java) | Tabela vazia |
+   | [TableViewExample2.java](src/tableview/TableViewExample2.java)| Tabela com dados fixos | 
+   | [TableViewExample3.java](src/tableview/TableViewExample3.java)| Botão para inserir dado fixo na tabela |
+   | [TableViewExample4.java](src/tableview/TableViewExample4.java)| Botão para inserir dado lido de TextField |
+   | [TableViewExample5.java](src/tableview/TableViewExample5.java)| Botão para remover linha da tabela |
+   | [TableViewExample6.java](src/tableview/TableViewExample6.java)| Botão para substituir dado na tabela |
+   | [TableViewExampleJoke.java](src/tableview/TableViewExampleJoke.java) | Bônus: tabela com piadas do Chuck Norris |
 
 
 2. Usando como referência estes programas, crie um novo programa para cadastro de diferentes [blocos do jogo Minecraft](https://minecraft-pt.gamepedia.com/Bloco). Seu programa deverá permitir inserção, remoção e alteração de blocos, além de visualização em uma TableView. Cada bloco cadastrado deverá ter pelo menos 3 atributos à sua escolha. Por exemplo: 
