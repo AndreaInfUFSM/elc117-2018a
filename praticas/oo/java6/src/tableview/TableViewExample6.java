@@ -89,7 +89,9 @@ public class TableViewExample6 extends Application {
     Button btnDel = new Button("Del");
     btnDel.setOnAction(ev -> {
       int selectedIndex = table.getSelectionModel().getSelectedIndex();
-      data.remove(selectedIndex);
+      if (selectedIndex >= 0 && selectedIndex < data.size()) {
+         data.remove(selectedIndex);
+      }
     });
     
     // Quando uma linha da tabela é selecionada,
@@ -105,7 +107,7 @@ public class TableViewExample6 extends Application {
     btnSave.setOnAction(ev -> {
       DataEntry selectedItem = (DataEntry) table.getSelectionModel().getSelectedItem();
       selectedItem.setSecond(txtfld.getText());
-    });
+    }); // E se nenhuma linha estiver selecionada?
     
     VBox vbox = new VBox();
     vbox.setSpacing(5);

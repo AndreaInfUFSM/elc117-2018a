@@ -92,9 +92,9 @@ public class TableViewExample5 extends Application {
       int selectedIndex = table.getSelectionModel().getSelectedIndex();
       if (selectedIndex >= 0 && selectedIndex < data.size()) {
          System.out.println("Removing "+selectedIndex);
-         table.getItems().remove(selectedIndex);
+         data.remove(selectedIndex);
       } else {
-      System.out.println("Got selected "+selectedIndex);
+        System.out.println("Selected:"+selectedIndex);
       }
     });
     
