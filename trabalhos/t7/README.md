@@ -25,6 +25,7 @@ Conforme a [documentação](http://dadosabertos.rio.rj.gov.br/apitransporte/apre
 | Velocidade | Velocidade do ônibus na hora do coleta do dado |
 
 A tabela a seguir ilustra exemplos de URLs que podem ser usadas para obter dados do servidor:
+
 | URL | Descrição |
 | --- | --- |
 | http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterTodasPosicoes | Obtém dados de todos os veículos |
