@@ -60,6 +60,8 @@ A organização do seu código deve inspirar-se no modelo MVC (Model-View-Contro
 
 Você pode incrementar este trabalho e obter pontuação extra, proporcional à complexidade de implementação. Alguns exemplos:
 
+1. Usar uma thread que atualiza os dados de tempos em tempos.
+
 1. Permitir que o usuário filtre os dados mostrados na tabela, por exemplo para mostrar somente ônibus de uma linha.
 
 2. Mostrar a localização de um ônibus selecionado no mapa da cidade. Uma forma simples de se fazer isso é inserindo uma WebView na GUI para mostrar um mapa estático gerado pela [Maps Static API da Google](https://developers.google.com/maps/documentation/maps-static/intro).
