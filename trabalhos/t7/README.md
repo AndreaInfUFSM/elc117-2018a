@@ -16,6 +16,7 @@ O programa a ser criado é um [dashboard](https://www.google.com/search?tbm=isch
 Conforme a [documentação](http://dadosabertos.rio.rj.gov.br/apitransporte/apresentacao/pdf/documentacao_gps_brt.pdf), os dados retornados informam, para cada veículo:
 
 | Campo | Descrição |
+| --- | --- |
 | DataHora | Data e hora da coleta do dado |
 | Ordem | Identificação alfanumérica do veículo |
 | Linha | Linha de transporte |
@@ -24,9 +25,11 @@ Conforme a [documentação](http://dadosabertos.rio.rj.gov.br/apitransporte/apre
 | Velocidade | Velocidade do ônibus na hora do coleta do dado |
 
 A tabela a seguir ilustra exemplos de URLs que podem ser usadas para obter dados do servidor:
-| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterTodasPosicoes |
-| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDaLinha/100 |
-| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDoOnibus/B10033 |
+| URL | Descrição |
+| --- | --- |
+| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterTodasPosicoes | Obtém dados de todos os veículos |
+| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDaLinha/100 | Obtém dados de um veículo |
+| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDoOnibus/B10033 | Obtém dados de todos os veículos de uma linha |
 
 
 
