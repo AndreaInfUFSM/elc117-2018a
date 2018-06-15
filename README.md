@@ -59,6 +59,8 @@ Sala: 368, CT - Práticas: 334, CT
  4. [Resolvendo problemas da OBI em Prolog](trabalhos/t4) (entrega até segunda, 30/04/2018, 23:59)
  5. [Editor de grafos com JavaFX](trabalhos/t5) (entrega até segunda, 04/06/2018, 23:59)
  6. [Planarity puzzle com JavaFX](trabalhos/t6) (entrega até terça, 12/06/2018, 23:59)
+ 7. [Dashboard para monitoramento de frota de ônibus urbanos](trabalhos/t7) (entrega até domingo, 01/07/2018, 23:59)
+ 
 <!--
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
