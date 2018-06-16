@@ -9,7 +9,7 @@ Domingo, 1º de julho, 23:59.
 
 O objetivo principal deste trabalho é exercitar a **programação orientada a objetos**, aplicando e aprofundando o conhecimento sobre os conceitos associados a este paradigma, em um programa com interface gráfica. 
 
-O programa a ser criado é um [dashboard](https://www.google.com/search?tbm=isch&q=dashboard&oq=dashboard) para visualização de dados sobre a [frota de ônibus da cidade do Rio de Janeiro](https://pcrj.maps.arcgis.com/home/item.html?id=c47f8bb36e2e4760a761111ac58f5ec0). Estes dados foram escolhidos por serem atualizados em tempo real e estarem disponíveis via uma API web, que dispobiliza os dados em um formato de fácil manipulação (JSON).
+O programa a ser criado é um [dashboard](https://www.google.com/search?tbm=isch&q=dashboard&oq=dashboard) para visualização de dados sobre a [frota de ônibus da cidade do Rio de Janeiro](https://pcrj.maps.arcgis.com/home/item.html?id=c47f8bb36e2e4760a761111ac58f5ec0). Estes dados foram escolhidos por serem atualizados em tempo real e estarem disponíveis via uma API web, que dispobiliza os dados em um formato de fácil manipulação (JSON Array).
 
 ## Dados 
 
@@ -29,8 +29,8 @@ A tabela a seguir ilustra exemplos de URLs que podem ser usadas para obter dados
 | URL | Descrição |
 | --- | --- |
 | http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterTodasPosicoes | Obtém dados de todos os veículos |
-| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDaLinha/100 | Obtém dados de um veículo |
-| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDoOnibus/B10033 | Obtém dados de todos os veículos de uma linha |
+| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDaLinha/100 | Obtém dados de todos os veículos da linha 100 |
+| http://dadosabertos.rio.rj.gov.br/apiTransporte/apresentacao/rest/index.cfm/obterPosicoesDoOnibus/B10033 | Obtém dados do veículo B10033 |
 
 
 
@@ -42,11 +42,11 @@ O programa deve, no mínimo:
 
 2. Mostrar o número de veículos obtido na última leitura do servidor.
 
-3. Mostrar os dados numa TableView.
+3. Mostrar os dados lidos numa TableView. Lembre que vimos [slides](../../slides) e [exemplos](../../praticas/oo/java6/src/tableview) sobre isso.
 
-4. Mostrar as seguintes datas-horas: (a) última leitura de dados do servidor, (b) data-hora mais recente lida do servidor e (c) data-hora menos recente lida do servidor. 
+4. Mostrar as seguintes datas-horas: (a) última leitura de dados do servidor, (b) data-hora mais recente lida do servidor e (c) data-hora menos recente lida do servidor. Você vai precisar fazer parsing dos valores de DataHora lidos no JSON Array.
 
-5. Mostrar um [gráfico de pizza](https://docs.oracle.com/javafx/2/charts/pie-chart.htm) (ou torta, para quem prefere doces :-)) identificando o percentual de veículos parados (velocidade 0) e em movimento (velocidade >0).
+5. Mostrar um [gráfico de pizza](https://docs.oracle.com/javafx/2/charts/pie-chart.htm) (ou torta, para quem prefere doces :-)) com o percentual de veículos parados (velocidade 0) e em movimento (velocidade >0).
 
 6. Mostrar um [gráfico de barras](https://docs.oracle.com/javafx/2/charts/bar-chart.htm#CIHJFHDE) com o número de veículos em movimento por linha.
 
@@ -62,7 +62,7 @@ Você pode incrementar este trabalho e obter pontuação extra, proporcional à 
 
 1. Usar uma thread que atualiza os dados de tempos em tempos.
 
-1. Permitir que o usuário filtre os dados mostrados na tabela, por exemplo para mostrar somente ônibus de uma linha.
+1. Permitir que o usuário filtre os dados mostrados na tabela, por exemplo para mostrar somente os ônibus de uma linha.
 
 2. Mostrar a localização de um ônibus selecionado no mapa da cidade. Uma forma simples de se fazer isso é inserindo uma WebView na GUI para mostrar um mapa estático gerado pela [Maps Static API da Google](https://developers.google.com/maps/documentation/maps-static/intro).
 
