@@ -41,6 +41,8 @@
   | [TableViewExample5.java](src/tableview/TableViewExample5.java)| Botão para remover linha da tabela |
   | [TableViewExample6.java](src/tableview/TableViewExample6.java)| Botão para substituir dado na tabela |
   | [TableViewExampleJoke.java](src/tableview/TableViewExampleJoke.java) | Bônus: tabela com piadas do Chuck Norris |
+  | [TableViewExampleChart.java](src/tableview/TableViewExampleChart.java) | Bônus: tabela e gráfico de barras |
+
 
 
 2. Usando como referência estes programas, crie um novo programa para cadastro de diferentes [blocos do jogo Minecraft](https://minecraft-pt.gamepedia.com/Bloco). Seu programa deverá permitir inserção, remoção e alteração de blocos, além de visualização em uma TableView. Cada bloco cadastrado deverá ter pelo menos 3 atributos à sua escolha. Por exemplo: 
