@@ -50,7 +50,7 @@ O programa deve, no mínimo:
 
 6. Mostrar um [gráfico de barras](https://docs.oracle.com/javafx/2/charts/bar-chart.htm#CIHJFHDE) com o número de veículos em movimento por linha.
 
-7. Para fins de teste offline, permitir também que os dados sejam lidos de um arquivo.
+7. Para fins de teste offline, permitir também que os dados sejam lidos de um [arquivo](dados).
 
 Todas as informações devem ser agrupadas em um painel e formatadas para facilitar a visualização, como nos vários exemplos de [dashboards](https://www.google.com/search?tbm=isch&q=dashboard&oq=dashboard).
 
