@@ -22,7 +22,7 @@ Sala: 368, CT - Práticas: 334, CT
  - Datas para avaliações orais:  
    - Primeiro bimestre: 23 e 25/04/2018  
    - Segundo bimestre: 2 e 4/07/2018  
- - Avaliação final (exame): 16/07/2018  
+ - Avaliação final (exame): 23/07/2018  
 
 
 <!--
